@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "total_cars": 4,
+    "scrape_date": "2025-10-26 19:58:42",
+    "sources": [
+      "Dubizzle Oman"
+    ]
+  },
+  "cars": [
+    {
+      "source": "Dubizzle Oman",
+      "website": "https://www.dubizzle.com.om/en/vehicles/cars/",
+      "brand": "Toyota",
+      "model": "Elite",
+      "price": "OMR 8,800",
+      "year": "2024",
+      "condition": "New",
+      "scraped_at": "2025-10-26 19:58:31"
+    },
+    {
+      "source": "Dubizzle Oman",
+      "website": "https://www.dubizzle.com.om/en/vehicles/cars/",
+      "brand": "Kia",
+      "model": "Elite",
+      "price": "OMR 6,200",
+      "year": "2023",
+      "condition": "New",
+      "scraped_at": "2025-10-26 19:58:31"
+    },
+    {
+      "source": "Dubizzle Oman",
+      "website": "https://www.dubizzle.com.om/en/vehicles/cars/",
+      "brand": "Nissan",
+      "model": "Elite",
+      "price": "OMR 12,000",
+      "year": "2019",
+      "condition": "New",
+      "scraped_at": "2025-10-26 19:58:31"
+    },
+    {
+      "source": "Dubizzle Oman",
+      "website": "https://www.dubizzle.com.om/en/vehicles/cars/",
+      "brand": "Toyota",
+      "model": "Elite",
+      "price": "OMR 10,600",
+      "year": "2024",
+      "condition": "New",
+      "scraped_at": "2025-10-26 19:58:31"
+    }
+  ]
+}
